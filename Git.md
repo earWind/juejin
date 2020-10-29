@@ -10,6 +10,7 @@
 * 功能分支（feature branch）
 * 补丁分支（hotfix branch）
 * 预发分支（release branch）
+
 一旦完成开发，它们就会被合并进develop或master，然后被删除。
 >> ![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f5e577f5076e436d921be9a8f7627490~tplv-k3u1fbpfcp-watermark.image)
 
